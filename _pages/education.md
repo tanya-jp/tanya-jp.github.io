@@ -21,7 +21,7 @@ author_profile: true
    * Engineering Statistics: 20/20
    * Data Structures and Algorithms: 19/20
    * Algorithm Design: 19.25/20
-   * Artifcial Intelligence: 20/20
+   * Artificial Intelligence: 20/20
    * Computational Intelligence: 18.5/20
    * Database Design Lab.: 19.75/20
 
