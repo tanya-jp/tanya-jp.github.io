@@ -11,8 +11,8 @@ author_profile: true
 
 - Advisor: [Dr. Mohammad Rahmati](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI)
 
-- Total GPA: 3.97/4 (18.48)
-   * Last Two Years GPA (65 Credits): 4/4 (18.85) 
+- Total GPA: 3.97/4 (18.48/20)
+   * Last Two Years GPA (65 Credits): 4/4 (18.85/20) 
 
 - Highlighted Courses:
    * Fundamentals of Computer Programming Lab.: 20/20
