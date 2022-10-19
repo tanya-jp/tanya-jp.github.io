@@ -15,5 +15,5 @@ Instructors: [Dr. Hossein Zeinali](https://aut.ac.ir/cv/3031/Hossein%20Zeinali) 
 
 ## Responsibilities:
 - Preparing Homeworks and Grading Them
-- Helping Students with Thier Assignments
+- Helping Students with Their Assignments
 - Mentoring Students in the Lab as Workshop TA

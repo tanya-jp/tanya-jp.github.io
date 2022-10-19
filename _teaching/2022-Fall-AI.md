@@ -15,4 +15,4 @@ Instructor: [Dr. Mahdi Javanmardi](https://www.linkedin.com/in/mahdi-javanmardi-
 
 ## Responsibilities:
 - Preparing Homeworks and Grading Them
-- Helping Students with Thier Assignments
+- Helping Students with Their Assignments
