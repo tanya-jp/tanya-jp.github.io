@@ -14,6 +14,6 @@ Instructor: [Dr. Farzaneh Salari](https://oldsci.razi.ac.ir/en/~f.salari)
 *Fall 2020*
 
 ## Responsibilities:
-- Preparing Homeworks and Grading Them
+- Preparing Homeworks and Grading Them ([Link to GitHub](https://github.com/tanya-jp/assignments-solutions))
 - Helping Students with Thier Assignments
 - Mentoring Students in the Lab
