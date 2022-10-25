@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a B.Sc senior student at Amirkabir University of Technology. 
+I am a senior B.Sc student at Amirkabir University of Technology. 

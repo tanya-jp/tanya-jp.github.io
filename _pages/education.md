@@ -7,7 +7,7 @@ author_profile: true
 
 ## Bachelor of Science in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en)
 
-*Sep. 2018 – March 2023(expected)*
+*Sep. 2018 – March 2023 (Expected)*
 
 - Advisor: [Dr. Mohammad Rahmati](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI)
 
