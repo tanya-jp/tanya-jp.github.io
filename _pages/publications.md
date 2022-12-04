@@ -11,3 +11,13 @@ Ali Davoodi Moghadam, Ali Jamali, Tanya Djavaherpour, Behrad Taghibeyglou
 $8^t{^h}$ Conference of Basic and Clinical Neuroscience Congress, Razi Hall, Tehran, Iran.
 
 *Dec. 2019*
+
+## Challenges of Predicting EUR/USD Forex Pairs Through Deep Learning Approaches
+
+Amir Mirzaei, Arefeh KouhiRonaghi, Tanya Djavaherpour, Avin Kolahdooz, Dara Rahmati
+
+$28^t{^h}$ International Computer Conference, the Computer Society of Iran.
+
+(Under Review)
+
+*Dec. 2022*
