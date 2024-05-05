@@ -9,7 +9,7 @@ location: "Hamilton, Ontario, Canada"
 ---
     
 
-Instructor: [Dr. Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/)
+Instructor: [Dr. Stephen Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/)
 
 *Winter 2024*
 
