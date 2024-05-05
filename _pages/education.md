@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## M.Sc. in Computer Engineering at McMaster University
+## M.Sc. in Computer Science at McMaster University
 
 *Sep. 2023 - Present*
 
