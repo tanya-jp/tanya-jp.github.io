@@ -2,7 +2,7 @@
 title: "SFWRENG 3K04: Software Development"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/Computer-Architecture
+permalink: /teaching/Software Development
 venue: "McMaster University, Department of Computing and Software"
 date: 2024-10-01
 location: "Hamilton, Ontario, Canada"

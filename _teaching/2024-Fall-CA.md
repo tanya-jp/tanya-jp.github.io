@@ -2,7 +2,7 @@
 title: "CS 2GA3: Computer Architecture"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/Computer-Architecture
+permalink: /teaching/Computer-Architecture-2024
 venue: "McMaster University, Department of Computing and Software"
 date: 2024-10-01
 location: "Hamilton, Ontario, Canada"
