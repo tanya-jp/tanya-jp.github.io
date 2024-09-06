@@ -1,16 +1,17 @@
 ---
-title: "COMPSCI 2GA3: Computer Architecture"
+title: "CS 2GA3: Computer Architecture"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/Computer-Architecture
 venue: "McMaster University, Department of Computing and Software"
-date: 2023-10-01
+date: 2024-10-01
 location: "Hamilton, Ontario, Canada"
 ---
+    
 
-Instructor: [Dr. Zhao Zhao](https://www.linkedin.com/in/hermitz/?originalSubdomain=ca)
+Instructor: [Maryam Valian](https://www.linkedin.com/in/maryam-valian-03320b21a/)
 
-*Fall 2023*
+*Fall 2024*
 
 ## Responsibilities:
 - Leading Tutorials/Overseeing Laboratories/Field Trip Supervision
