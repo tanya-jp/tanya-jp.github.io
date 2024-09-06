@@ -18,7 +18,7 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 anya Djavaherpour, Ali Naqvi, Eddie Zhuang, Stephen Kelly
 
-Genetic Programming Theory \& Practice XXI.
+Genetic Programming Theory & Practice XXI.
 
 *2024*
 
