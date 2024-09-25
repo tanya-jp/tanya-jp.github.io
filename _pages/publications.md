@@ -22,7 +22,7 @@ Genetic Programming Theory & Practice XXI.
 
 *2024*
 
-## Improving Efficiency of Indexed Memory for Tangled Program Graphs
+## Tangled Program Graphs with Indexed Memory in Control Tasks with Short Time Dependencies
 
 Tanya Djavaherpour, Ali Naqvi, Stephen Kelly 
 
