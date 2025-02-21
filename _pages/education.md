@@ -7,7 +7,7 @@ author_profile: true
 
 ## M.Sc. in Computer Science at McMaster University
 
-*Sep. 2023 - Present*
+*Sep. 2023 - Apr. 2025*
 
 - Supervisor: [Dr. Stephen Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/)
 

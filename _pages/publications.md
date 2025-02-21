@@ -16,19 +16,17 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 ## Evolving Many-Model Agents with Vector and Matrix Operations in Tangled Program Graphs
 
-anya Djavaherpour, Ali Naqvi, Eddie Zhuang, Stephen Kelly
+Tanya Djavaherpour, Ali Naqvi, Eddie Zhuang, Stephen Kelly
 
 Genetic Programming Theory & Practice XXI.
 
 *2024*
 
-## Tangled Program Graphs with Indexed Memory in Control Tasks with Short Time Dependencies
+## [Tangled Program Graphs with Indexed Memory in Control Tasks with Short Time Dependencies](https://www.scitepress.org/Papers/2024/130168/130168.pdf)
 
 Tanya Djavaherpour, Ali Naqvi, Stephen Kelly 
 
 $16^t{^h}$ International Conference on Evolutionary Computation Theory and Applications (ECTA).
-
-(Under Review)
 
 *2024*
 
