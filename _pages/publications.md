@@ -14,7 +14,7 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 *Dec. 2022* -->
 
-## Evolving Many-Model Agents with Vector and Matrix Operations in Tangled Program Graphs
+## [Evolving Many-Model Agents with Vector and Matrix Operations in Tangled Program Graphs](https://link.springer.com/chapter/10.1007/978-981-96-0077-9_5)
 
 Tanya Djavaherpour, Ali Naqvi, Eddie Zhuang, Stephen Kelly
 
