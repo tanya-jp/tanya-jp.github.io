@@ -6,17 +6,23 @@ author_profile: true
 ---
 ## Research Assistant at McMaster University
 
-Research on evaluating Tangled Program Graphs (TPG) as a memory mechanism for Deep Reinforcement Learning applications.
+Study of how people use linguistic context to understand speech in challenging listening conditions, using EEG, fMRI, and cognitive assessments.
+
+Under the supervision of [Dr. Christian Brodbeck](https://www.eng.mcmaster.ca/cas/faculty/christian-brodbeck/)
+
+*Mar. 2025 - Present*
+
+Research on evaluating Tangled Program Graphs (TPG) with a memory mechanism for Deep Reinforcement Learning applications.
 
 Under the Supervision of [Dr. Stephen Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/)
 
 *Sep. 2023 - Present*
 
-## Research Assistant at [Amirkabir University of Technology](https://aut.ac.ir/en)
+<!-- ## Research Assistant at [Amirkabir University of Technology](https://aut.ac.ir/en)
 
-Research on Image Enhancement methods by designing and implementation of a software system for Underwater Image Processing.
+Research on Image Enhancement methods by designing and implementation of a software system for Underwater Image Processing. -->
 
-Under the Supervision of [Dr. Mohammad Rahmati](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI)
+<!-- Under the Supervision of [Dr. Mohammad Rahmati](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI) -->
 
 *Sep. 2022 - Jul. 2023*
 
