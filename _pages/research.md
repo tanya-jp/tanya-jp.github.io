@@ -24,7 +24,7 @@ Research on Image Enhancement methods by designing and implementation of a softw
 
 <!-- Under the Supervision of [Dr. Mohammad Rahmati](https://aut.ac.ir/cv/2416/MOHAMMAD%20RAHMATI) -->
 
-*Sep. 2022 - Jul. 2023*
+<!-- *Sep. 2022 - Jul. 2023* -->
 
 ## Research Intern at [IPM Institute for Research in Fundamental Sciences](http://www.ipm.ac.ir/)
 
