@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master's student in Computer Science at McMaster University, specializing in Evolutionary Computing and Genetic Programming. Under the guidance of [Dr. Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/), I work as a research assistant, where I am investigating the potential of Tangled Program Graphs (TPG) as a novel memory mechanism for enhancing Deep Reinforcement Learning (DRL) systems. My goal is to contribute to the development of more robust and efficient AI models that can learn and adapt in dynamic environments.
+I recently completed my Master’s in Computer Science at McMaster University, where I specialized in Evolutionary Computing and Genetic Programming. Now I am continuing my journey with McMaster as a Research Assistant, exploring Neuroscience and Speech Processing to learn something new that remains connected in many ways.
 
-I hold a Bachelor's degree in Computer Engineering from Amirkabir University of Technology (Tehran Polytechnic), where I cultivated a strong foundation in Software Engineering and Machine Learning. My undergraduate thesis focused on the challenging field of Underwater Image Processing, where I developed a software system that significantly improves image clarity from aquatic environments. 
+Still, I remain connected to Evolutionary Computing. During my graduate studies, I worked under the guidance of [Dr. Stephen Kelly](https://www.eng.mcmaster.ca/cas/faculty/dr-stephen-kelly/) at the [Creative Algorithms Lab](https://creativealgorithms-cd4c88.gitlab.io/team/), where I investigated Tangled Program Graphs (TPGs) with novel memory mechanisms to enhance Deep Reinforcement Learning (DRL) systems. This is a project I continue to contribute to.
 
-As I continue my journey in computer science, I am eager to collaborate with peers and industry leaders to drive innovation and make a positive impact on society through technology.
+Currently, I am working with [Dr. Christian Brodbeck](https://www.eng.mcmaster.ca/cas/faculty/christian-brodbeck/) to study how people use linguistic context to interpret speech, especially when the signal is unclear due to noise or hearing loss. Our research aims to model how this process unfolds during continuous speech, how it changes with age, and how it is affected by hearing loss. We collect EEG, fMRI, and cognitive and hearing assessment data to support these models. More details about this project can be found [HERE](https://christianbrodbeck.net/projects/context-use/).
 
+I am always excited to connect with others who are passionate about using technology to drive innovation and create meaningful impact.
