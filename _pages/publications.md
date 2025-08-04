@@ -38,6 +38,12 @@ The Genetic and Evolutionary Computation Conference (GECCO) *2025*
 
 Genetic Programming Theory & Practice XXI. *2025*
 
+## [Enhancing Collaboration in Tangled Program Graphs With Shared Memory for Mujoco Continuous Control Tasks](https://www.urncst.com/index.php/urncst/article/view/852/474)
+
+**Tanya Djavaherpour**, Stephen Kelly
+
+Abstract published in URNCST Journal, Women in Science & Engineering (WISE) Conference: 5MT Competition Abstract Collection *2025*
+
 ## [Tangled Program Graphs with Indexed Memory in Control Tasks with Short Time Dependencies](https://www.scitepress.org/Papers/2024/130168/130168.pdf)
 
 **Tanya Djavaherpour**, Ali Naqvi, Stephen Kelly 
