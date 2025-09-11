@@ -20,6 +20,8 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 ALife *2025* (Accepted)
 
+[Code](https://github.com/tanya-jp/SharedMemTPG)
+
 ## Integrating Neuroplasticity into Genetic Programming Agents for Adaptive Decision Making
 
 Ali Naqvi, **Tanya Djavaherpour**, Quentin Vacher, Stephen Kelly
