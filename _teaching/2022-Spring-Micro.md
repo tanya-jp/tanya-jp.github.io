@@ -9,8 +9,6 @@ location: "Terhan, Iran"
 ---
     
 
-Instructor: [Dr. Hamed Farbeh](https://aut.ac.ir/cv/2158/HAMED%20FARBEH)
-
 *Spring 2022*
 
 ## Responsibilities:
