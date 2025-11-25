@@ -9,8 +9,6 @@ location: "Terhan, Iran"
 ---
     
 
-Instructor: [Dr. Hossein Zeinali](https://aut.ac.ir/cv/3031/Hossein%20Zeinali)
-
 *Fall 2021*
 
 ## Responsibilities:

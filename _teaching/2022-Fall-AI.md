@@ -9,8 +9,6 @@ location: "Terhan, Iran"
 ---
     
 
-Instructor: [Dr. Mahdi Javanmardi](https://www.linkedin.com/in/mahdi-javanmardi-037b346b/)
-
 *Fall 2022*
 
 ## Responsibilities:

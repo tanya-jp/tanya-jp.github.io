@@ -7,9 +7,6 @@ venue: "Amirkabir University of Technology, Department of Mathematics and Comput
 date: 2020-10-01
 location: "Terhan, Iran"
 ---
-    
-
-Instructor: [Dr. Farzaneh Salari](https://oldsci.razi.ac.ir/en/~f.salari)
 
 *Fall 2020*
 
