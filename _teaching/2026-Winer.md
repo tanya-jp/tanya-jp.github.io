@@ -1,5 +1,5 @@
 ---
-title: "SFWRENG 4G06A:Software Design IV - Capstone Design Project"
+title: "SFWRENG 4G06A: Software Design IV - Capstone Design Project"
 collection: teaching
 type: "Capstone Course"
 permalink: /teaching/caps
