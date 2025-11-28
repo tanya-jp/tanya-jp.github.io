@@ -18,7 +18,7 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 **Tanya Djavaherpour**, Ali Naqvi, Fatemeh Norouziani, Quentin Vacher, Stephen Kelly
 
-ALife *2025* (Accepted)
+ALife *2025*
 
 [Code](https://github.com/tanya-jp/SharedMemTPG)
 
@@ -26,7 +26,7 @@ ALife *2025* (Accepted)
 
 Ali Naqvi, **Tanya Djavaherpour**, Quentin Vacher, Stephen Kelly
 
-ALife *2025* (Accepted)
+ALife *2025*
 
 ## [MAPLE: Multi-Action Programs through Linear Evolution for Continuous Multi-Action Reinforcement Learning](https://dl.acm.org/doi/10.1145/3712256.3726400)
 
