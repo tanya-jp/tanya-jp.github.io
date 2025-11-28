@@ -14,7 +14,7 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 *Dec. 2022* -->
 
-## Genetic Encoding and Shared Knowledge in Reinforcement Learning with Structured Memory
+## [Genetic Encoding and Shared Knowledge in Reinforcement Learning with Structured Memory](https://direct.mit.edu/isal/proceedings/isal2025/37/30/134054)
 
 **Tanya Djavaherpour**, Ali Naqvi, Fatemeh Norouziani, Quentin Vacher, Stephen Kelly
 
@@ -22,7 +22,7 @@ ALife *2025* (Accepted)
 
 [Code](https://github.com/tanya-jp/SharedMemTPG)
 
-## Integrating Neuroplasticity into Genetic Programming Agents for Adaptive Decision Making
+## [Integrating Neuroplasticity into Genetic Programming Agents for Adaptive Decision Making](https://direct.mit.edu/isal/proceedings/isal2025/37/69/134042_)
 
 Ali Naqvi, **Tanya Djavaherpour**, Quentin Vacher, Stephen Kelly
 
