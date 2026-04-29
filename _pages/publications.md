@@ -16,7 +16,7 @@ $28^t{^h}$ International Computer Conference, the Computer Society of Iran.
 
 ## [Genetic Encoding and Shared Knowledge in Reinforcement Learning with Structured Memory](https://direct.mit.edu/isal/proceedings/isal2025/37/30/134054)
 
-**Tanya Djavaherpour**, Ali Naqvi, Fatemeh Norouziani, Quentin Vacher, Stephen Kelly
+**Tanya Djavaherpour**, Ali Naqvi, Reyhaneh Norouziani, Quentin Vacher, Stephen Kelly
 
 ALife *2025*
 

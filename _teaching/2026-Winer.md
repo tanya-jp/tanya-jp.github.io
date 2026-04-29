@@ -14,7 +14,4 @@ Instructor: [Dr. Spencer Smith](https://www.eng.mcmaster.ca/cas/faculty/dr-spenc
 *Fall 2025 and Winter 2026*
 
 ## Responsibilities:
-- Leading Tutorials/Overseeing Laboratories/Field Trip Supervision
-- Student Consultation (Emails, Office Hours, Meetings)
-- Grading (Marking, Entering Marks)
-- Preparation (Reading, Attending, Lectures, Meeting with Instructor)
+Manage and mentor five student teams in the Capstone Design Project course, reviewing their software documentation (SRS, VnV, MIS, MG, DD) and providing structured feedback through GitHub issues, code reviews, and weekly group meetings.
